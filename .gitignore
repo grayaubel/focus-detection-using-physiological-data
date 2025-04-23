@@ -1,3 +1,5 @@
 *.zip
 *.pkl
 *_respiban.txt
+*.csv
+*.txt
