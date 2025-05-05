@@ -2,3 +2,4 @@
 *.pkl
 *_respiban.txt
 *.txt
+*data/raw/*
