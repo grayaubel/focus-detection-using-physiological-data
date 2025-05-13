@@ -3,3 +3,4 @@
 *_respiban.txt
 *.txt
 *data/raw/*
+*.env
